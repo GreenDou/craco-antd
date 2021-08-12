@@ -59,7 +59,7 @@ This is a [craco](https://github.com/sharegate/craco) plugin that makes it easy 
 The latest version of `craco-antd` is tested with:
 
 - `react-scripts`: `^3.2.0`
-- `@craco/craco`: `^5.5.0`
+- `@craco/craco`: `^6.1.2`
 - `craco-less`: `^1.14.4`
 
 ## Installation
